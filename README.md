@@ -1,5 +1,6 @@
 # Jogo do Número Secreto
 <img src="/js-curso-2-aula_4/img/imagemdojogo.png">
+
 ## 📌 Descrição
 Projeto desenvolvido para fins estudantis durante a formação da Alura com o **Programa ONE - Oracle Next Education** 
 (Grupo 8). O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente.
